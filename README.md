@@ -1,4 +1,4 @@
-# Project Title
+# Curso JS com TDD na prática
 
 One Paragraph of project description goes here
 
